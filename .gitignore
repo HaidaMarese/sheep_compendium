@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+env/
+venv/
+ENV/
+VENV/
+*.env
+
+# IDE specific files
+.idea/
+*.iml
+
+# Test cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.mo
+*.pot
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Ignore any other file types or directories as needed
+
